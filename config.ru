@@ -1,5 +1,5 @@
 #\ -p 8080
-require './app'
+require './ap'
 $stdout.sync = true
 $stderr.sync = true
 run Sinatra::Application
